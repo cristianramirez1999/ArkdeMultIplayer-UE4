@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Curso.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Curso\Curso\Intermediate\Build\Win64\x64\CursoEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"E:\Curso\Curso\Intermediate\Build\Win64\x64\UnrealEditor\Development\Curso\Curso.init.gen.cpp.obj"
+"E:\Curso\Curso\Intermediate\Build\Win64\x64\UnrealEditor\Development\Curso\CursoCharacter.gen.cpp.obj"
+"E:\Curso\Curso\Intermediate\Build\Win64\x64\UnrealEditor\Development\Curso\CursoGameMode.gen.cpp.obj"
+"E:\Curso\Curso\Intermediate\Build\Win64\x64\UnrealEditor\Development\Curso\Curso.cpp.obj"
+"E:\Curso\Curso\Intermediate\Build\Win64\x64\UnrealEditor\Development\Curso\CursoCharacter.cpp.obj"
+"E:\Curso\Curso\Intermediate\Build\Win64\x64\UnrealEditor\Development\Curso\CursoGameMode.cpp.obj"
+"E:\Curso\Curso\Intermediate\Build\Win64\x64\UnrealEditor\Development\Curso\Default.rc2.res"
+/OUT:"E:\Curso\Curso\Intermediate\Build\Win64\x64\UnrealEditor\Development\Curso\UnrealEditor-Curso.lib"

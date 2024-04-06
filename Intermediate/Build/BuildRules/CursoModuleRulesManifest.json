@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Curso\\Curso\\Source\\Curso\\Curso.Build.cs",
+		"E:\\Curso\\Curso\\Source\\Curso.Target.cs",
+		"E:\\Curso\\Curso\\Source\\CursoEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
